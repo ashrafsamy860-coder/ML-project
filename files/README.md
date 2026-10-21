@@ -47,7 +47,7 @@ This is a **professional, enterprise-grade** classification system built with:
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - pip or conda
 
 ### Installation
